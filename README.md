@@ -82,7 +82,8 @@
 #### 方法一：从源代码安装
 ```bash
 # 克隆仓库
-git clone <repository-url>
+git clone https://github.com/peng0928/ImgTkinter.git
+
 cd ImgTkinter
 
 # 安装依赖
@@ -96,5 +97,5 @@ python ImgTkinter.py
 ```bash
 pip install imgtkinter
 # 运行程序
-Primgs
+Primg
 ```

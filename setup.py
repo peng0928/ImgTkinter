@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="imgtkinter",
-    version="1.0.0",
+    version="1.0.1",
     author="Penr",
     author_email="1944542244@qq.com",
     description="A powerful image classification and management tool",
@@ -34,7 +34,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "Primgs=ImgTkinter.ImgTkinter:main",
+            "Primg=ImgTkinter.ImgTkinter:main",
         ],
     },
     include_package_data=True,
